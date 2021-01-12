@@ -243,7 +243,7 @@
   "85ec": function (e, t, r) {},
   "8ce0": function (e, t, r) {},
   cf05: function (e, t, r) {
-    e.exports = r.p + "/dist/img/logo.82b9c7a5.png"
+    e.exports = r.p + "img/logo.82b9c7a5.png"
   }
 });
 //# sourceMappingURL=app.8c825a8e.js.map
